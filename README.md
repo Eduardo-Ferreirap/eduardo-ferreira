@@ -4,7 +4,6 @@
 
 📡 Entusiasta em redes, infraestrutura e automações com Python.
 
----
 
 ## 🛠️ Tecnologias e Ferramentas
 
